@@ -1,6 +1,10 @@
 /*
   Global CSS file
 */
+
+/* load css files */
+@import "./css/foo.css"
+
 *{
 	margin: 0;
 	padding: 0;
